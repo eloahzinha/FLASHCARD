@@ -56,8 +56,9 @@ body {
     .cartao__conteudo h3{
       backface-visibility: hidden;
 
-      .cartao_conteudo_frente,
-      .cartao_conteudo_verso{
+    .cartao__conteudo_frente,
+    .cartao__conteudo_verso{
+      
         backface-visibility: hidden;
       }
     }
